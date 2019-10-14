@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "this is a demo for socket.io server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lsj",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
